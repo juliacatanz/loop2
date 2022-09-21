@@ -8,7 +8,7 @@ input.onButtonPressed(Button.B, function () {
 })
 let Jimmy_steve: game.LedSprite = null
 basic.showIcon(IconNames.Heart)
-Jimmy_steve = game.createSprite(0, 0)
+Jimmy_steve = game.createSprite(3, 3)
 loops.everyInterval(500, function () {
 	
 })
